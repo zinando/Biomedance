@@ -1,0 +1,3 @@
+cd Biomedance
+virtual\Scripts\activate
+python attend.py

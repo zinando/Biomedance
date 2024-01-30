@@ -1,0 +1,10 @@
+# Logs
+
+*.sln
+*.sw?
+#*.env
+#*.flaskenv
+virtual/
+virtuale/
+exec/
+installer/
