@@ -1,0 +1,6 @@
+{
+    "port": "/dev/ttyUSB0",
+    "password": "1234",
+    "address": "4294967295",
+    "baud_rate": 57600
+}
